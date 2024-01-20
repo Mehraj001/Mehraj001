@@ -1,4 +1,4 @@
-![logo](https://github.com/Mehraj001/Mehraj001/blob/main/img.webp)
+![logo]([https://github.com/Mehraj001/Mehraj001/blob/main/img.webp](https://github.com/Mehraj001/Mehraj001/blob/main/123%20(1).pdf))
 <h1 align="center">Hi 👋, I'm Mehraj Ali Khan</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
